@@ -1,74 +1,20 @@
 Kalla Master is an website wich you can find any thing you want for your home and for your self like cloths tecnologies and ... , fully responsive lets see parts of the site 
 
-Header : 
-
-![Screenshot (173)](https://github.com/user-attachments/assets/f6fdb86a-8ab0-44a0-9768-f8d0bb85ce35)
-
-menu after login : 
-
-![Screenshot (174)](https://github.com/user-attachments/assets/17425e3a-2dc8-4138-a87e-5bd0485cb006)
-
-Main of site : 
-
-![Screenshot (184)](https://github.com/user-attachments/assets/257fe303-599c-4b91-9693-75b6dadef803)
-
-![Screenshot (185)](https://github.com/user-attachments/assets/0691da37-0209-412b-9435-f6b07b30daa5)
-
-![Screenshot (186)](https://github.com/user-attachments/assets/6e7b7be3-0f83-432e-91f4-4c4933bbfda0)
-
-![Screenshot (187)](https://github.com/user-attachments/assets/6f83b849-6a6a-4a29-b1e1-115a8573268d)
-
-![Screenshot (188)](https://github.com/user-attachments/assets/82ba1f35-4544-4504-95ae-e377d8d68323)
-
-![Screenshot (189)](https://github.com/user-attachments/assets/4827f337-b935-4810-941e-1f56881c5486)
-
-![Screenshot (190)](https://github.com/user-attachments/assets/745239c1-ec3e-45ba-b66e-9636f78bde25)
-
-![Screenshot (190)](https://github.com/user-attachments/assets/6e57a764-690c-470c-a6dd-d49ffc74936c)
-
-Footer of site : 
-
-![Screenshot (191)](https://github.com/user-attachments/assets/4281ed4d-bbb5-4a35-8f96-c6cf262ac7f9)
-
-Login : 
-
-![Screenshot (207)](https://github.com/user-attachments/assets/092e01e2-58d2-42fc-a3a6-748779ada452)
-
-
-cart : 
-![Screenshot (175)](https://github.com/user-attachments/assets/01d91dbb-810a-43a1-8229-1643aa9452b3)
-
-![Screenshot (178)](https://github.com/user-attachments/assets/e68b6211-cd77-40d7-bc62-236d9f184977)
-
-likes : 
-
-![Screenshot (177)](https://github.com/user-attachments/assets/a4048e14-474d-4877-ae95-87b1e8f33f32)
-
-![Screenshot (176)](https://github.com/user-attachments/assets/07e0e8f2-cbca-4550-be84-19e5775cc41d)
-
-
-Account details : 
-
-![Screenshot (179)](https://github.com/user-attachments/assets/5910b8d3-12aa-4917-a9dc-e20e9cffa122)
-
-About Us : 
-
-![Screenshot (180)](https://github.com/user-attachments/assets/a7fb25e7-a5a6-4294-b590-3d023ca2245e)
-
-
-navbar menus : 
-
-![Screenshot (181)](https://github.com/user-attachments/assets/e6bc008d-7dc8-4f50-94c8-ced854d74cf6)
-
-![Screenshot (182)](https://github.com/user-attachments/assets/7c9bacec-993f-4b45-b648-4ad386eb0086)
-
-![Screenshot (183)](https://github.com/user-attachments/assets/4aff4e82-0e9c-47c8-80f8-a19fa0c74c3a)
-
-view on phones : 
-
-![Screenshot 2024-09-21 215712](https://github.com/user-attachments/assets/df3ee4c4-eb31-4945-a747-757fabdf69d1)
-
-![Screenshot 2024-09-21 215727](https://github.com/user-attachments/assets/ab0f5673-a214-4c3b-b95d-ad56275c6f08)
-
-![Screenshot 2024-09-21 215747](https://github.com/user-attachments/assets/54564db1-55f5-474e-8d50-b6101ba4342f)
-
+![Screenshot 2024-11-03 120124](https://github.com/user-attachments/assets/52744d08-173e-4340-a116-a04f98dbd4ad)
+![Screenshot 2024-11-03 120141](https://github.com/user-attachments/assets/c8e1497a-367f-47f5-9e2c-e3858a3fe861)
+![Screenshot 2024-11-03 120150](https://github.com/user-attachments/assets/f54402a0-0d23-4c8c-a193-74d80fea2ed6)
+![Screenshot 2024-11-03 120200](https://github.com/user-attachments/assets/1fea74de-5c65-4b27-b361-4226f993c136)
+![Screenshot 2024-11-03 120213](https://github.com/user-attachments/assets/bf05ee71-0f26-42ce-b8f4-272a7fe4d636)
+![Screenshot 2024-11-03 120221](https://github.com/user-attachments/assets/1aec4cbd-7747-4f39-a083-cfecb9219d78)
+![Screenshot 2024-11-03 120230](https://github.com/user-attachments/assets/ca96dee9-bc33-4e8d-b0a7-91aee9a9a87e)
+![Screenshot 2024-11-03 120250](https://github.com/user-attachments/assets/e0736a6b-4535-4062-9ab9-e74f83958aae)
+![Screenshot 2024-11-03 120308](https://github.com/user-attachments/assets/f7df5011-19b1-468b-81e1-5f6c6f5decd3)
+![Screenshot 2024-11-03 120314](https://github.com/user-attachments/assets/5f6761fb-0a20-4c74-917e-b30e46ab52dc)
+![Screenshot 2024-11-03 120344](https://github.com/user-attachments/assets/880622bc-3662-4b6d-b6db-a280aeb6e236)
+![Screenshot 2024-11-03 120355](https://github.com/user-attachments/assets/a7a5494e-76c5-4e81-a020-a17b947ee8d8)
+![Screenshot 2024-11-03 120406](https://github.com/user-attachments/assets/a913a85c-8dcd-42ab-86b2-08e28d4c55e1)
+![Screenshot 2024-11-03 120509](https://github.com/user-attachments/assets/9bf5ecca-684a-45cf-8487-acbea40d9d28)
+![Screenshot 2024-11-03 120518](https://github.com/user-attachments/assets/386455e9-fb1c-482f-a91b-035511191c82)
+![Screenshot 2024-11-03 120743](https://github.com/user-attachments/assets/c1f4d55c-d362-4593-8a75-c0836bc0d537)
+![Screenshot 2024-11-03 120801](https://github.com/user-attachments/assets/0300fcb1-31a1-411d-a96f-18b63f9411b2)
+![Screenshot 2024-11-03 120808](https://github.com/user-attachments/assets/76e86a5d-1ccd-4b6c-951d-451da7229848)
